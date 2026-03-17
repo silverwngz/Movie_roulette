@@ -1,0 +1,13 @@
+This project came to fruition through the collaborative efforts of the following two gentlemen:
+
+- Maty-Slavik
+- silverwngz
+
+
++ silverwngz was responsible for programming a set of commands. These commands were for the first movie.
++ The responsibility for the second movie fell to Maty-Slavik.
+
+
+STATUS : WORK IN PROGRESS
+LAST UPDATED : 03/17/2026 : 22:43
+WRITTEN BY : silverwngz
